@@ -8,7 +8,7 @@ DataFrame. Performed operations like  filtering data based on conditions, handli
 
 a. Handling Values 
 
- * FiLling values
+ * Filling values
     
     1.Fillna - Filling null values with value 0.
        
